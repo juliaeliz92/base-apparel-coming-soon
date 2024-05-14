@@ -39,9 +39,9 @@ function App() {
     >
       <Logo display={{xl: 'none'}}/>
       <picture>
-        <source media='(min-width: 1280px)' srcSet='/images/hero-desktop.jpg' />
+        <source media='(min-width: 1280px)' srcSet={`${process.env.PUBLIC_URL}/images/hero-desktop.jpg`} />
         <Image 
-          src='/images/hero-mobile.jpg' 
+          src={`${process.env.PUBLIC_URL}/images/hero-mobile.jpg`}
           alt='a woman in an orange shirt'
           h={{xl: '100vh'}} 
           w={{ base: '100vw', xl: 'auto'}} 
