@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5da62317.css",
-    "main.js": "/static/js/main.dc227425.js",
-    "static/js/453.6c119d4c.chunk.js": "/static/js/453.6c119d4c.chunk.js",
-    "index.html": "/index.html",
-    "main.5da62317.css.map": "/static/css/main.5da62317.css.map",
-    "main.dc227425.js.map": "/static/js/main.dc227425.js.map",
-    "453.6c119d4c.chunk.js.map": "/static/js/453.6c119d4c.chunk.js.map"
+    "main.css": "/base-apparel-coming-soon/static/css/main.5da62317.css",
+    "main.js": "/base-apparel-coming-soon/static/js/main.1bf31497.js",
+    "static/js/453.6c119d4c.chunk.js": "/base-apparel-coming-soon/static/js/453.6c119d4c.chunk.js",
+    "index.html": "/base-apparel-coming-soon/index.html",
+    "main.5da62317.css.map": "/base-apparel-coming-soon/static/css/main.5da62317.css.map",
+    "main.1bf31497.js.map": "/base-apparel-coming-soon/static/js/main.1bf31497.js.map",
+    "453.6c119d4c.chunk.js.map": "/base-apparel-coming-soon/static/js/453.6c119d4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5da62317.css",
-    "static/js/main.dc227425.js"
+    "static/js/main.1bf31497.js"
   ]
 }
